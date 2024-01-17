@@ -1,0 +1,329 @@
+The target system is: Linux -  - x86-64-v3
+The host system is: Windows - 6.2.9200 - AMD64
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/x86_64-poky-linux-g++.exe 
+Build flags: -DQT_QML_DEBUG
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
+
+The CXX compiler identification is GNU, found in "C:/Users/fuqianli/OneDrive - City University of Hong Kong - Student/Documents/Project/Mahjong_Detection/build-Mahjong_Detection-Boot2Qt_6_6_1_Intel_NUC-Debug/CMakeFiles/3.25.2/CompilerIdCXX/CMakeCXXCompilerId.o"
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/fuqianli/OneDrive - City University of Hong Kong - Student/Documents/Project/Mahjong_Detection/build-Mahjong_Detection-Boot2Qt_6_6_1_Intel_NUC-Debug/CMakeFiles/CMakeScratch/TryCompile-om13xr
+
+Run Build Command(s):D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/ninja.exe cmTC_ab961 && [1/2] Building CXX object CMakeFiles/cmTC_ab961.dir/CMakeCXXCompilerABI.cpp.o
+Using built-in specs.
+COLLECT_GCC=D:\Code\3.Qt\6.6.1\Boot2Qt\intel-skylake-64\toolchain\sysroots\x86_64-w64-mingw32\usr\bin\x86_64-poky-linux\x86_64-poky-linux-g++.exe
+Target: x86_64-poky-linux
+Configured with: ../../../../../../work-shared/gcc-12.3.0-r0/gcc-12.3.0/configure --build=x86_64-linux --host=x86_64-w64-mingw32 --target=x86_64-poky-linux --prefix=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr --exec_prefix=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr --bindir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux --sbindir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux --libexecdir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/libexec/x86_64-poky-linux --datadir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/share --sysconfdir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/etc --sharedstatedir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/com --localstatedir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/var --libdir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/lib/x86_64-poky-linux --includedir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/include --oldincludedir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/include --infodir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/share/info --mandir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/share/man --disable-silent-rules --disable-dependency-tracking --with-libtool-sysroot=/home/qt/work/build/build/tmp/work/x86_64-nativesdk-mingw32-w64-mingw32/gcc-cross-canadian-x86-64/12.3.0-r0/recipe-sysroot --enable-clocale=generic --with-gnu-ld --enable-shared --enable-languages=c,c++ --enable-threads=posix --enable-multilib --enable-default-pie --enable-c99 --enable-long-long --enable-symvers=gnu --enable-libstdcxx-pch --program-prefix=x86_64-poky-linux- --without-local-prefix --disable-install-libiberty --disable-libssp --enable-libitm --enable-lto --disable-bootstrap --with-system-zlib --with-linker-hash-style=gnu --enable-linker-build-id --with-ppl=no --with-cloog=no --enable-checking=release --enable-cheaders=c_global --without-isl --with-gxx-include-dir=/not/exist/usr/include/c++/12.3.0 --with-build-time-tools=/home/qt/work/build/build/tmp/work/x86_64-nativesdk-mingw32-w64-mingw32/gcc-cross-canadian-x86-64/12.3.0-r0/recipe-sysroot-native/usr/x86_64-poky-linux/bin --with-sysroot=/not/exist --with-build-sysroot=/home/qt/work/build/build/tmp/work/x86_64-nativesdk-mingw32-w64-mingw32/gcc-cross-canadian-x86-64/12.3.0-r0/recipe-sysroot --with-plugin-ld=ld --enable-poison-system-directories --disable-static --disable-nls --enable-initfini-array --enable-__cxa_atexit --disable-nls
+Thread model: posix
+Supported LTO compression algorithms: zlib zstd
+gcc version 12.3.0 (GCC) 
+COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '--sysroot=D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux' '-m64' '-march=x86-64-v3' '-fstack-protector-strong' '-Wformat=1' '-Wformat-security' '--sysroot=D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux' '-v' '-o' 'CMakeFiles/cmTC_ab961.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-dumpdir' 'CMakeFiles/cmTC_ab961.dir/'
+ d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../libexec/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/cc1plus.exe -quiet -v -iprefix d:\code\3.qt\6.6.1\boot2qt\intel-skylake-64\toolchain\sysroots\x86_64-w64-mingw32\usr\bin\x86_64-poky-linux\../../lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/ -isysroot D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux -D_GNU_SOURCE D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_ab961.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -m64 -march=x86-64-v3 -Wformat=1 -Wformat-security -version -fdiagnostics-color=always -fstack-protector-strong -o C:\Users\fuqianli\AppData\Local\Temp\cckwMabQ.s
+GNU C++17 (GCC) version 12.3.0 (x86_64-poky-linux)
+	compiled by GNU C version 12.3.0, GMP version 6.2.1, MPFR version 4.2.0, MPC version 1.3.1, isl version none
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring nonexistent directory "d:\code\3.qt\6.6.1\boot2qt\intel-skylake-64\toolchain\sysroots\x86_64-w64-mingw32\usr\bin\x86_64-poky-linux\../../lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/../../../../../x86_64-poky-linux/include"
+ignoring duplicate directory "d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/lib/x86_64-poky-linux/gcc/../../../lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/include"
+ignoring nonexistent directory "D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/../../../../include"
+ignoring duplicate directory "d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/lib/x86_64-poky-linux/gcc/../../../lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/include-fixed"
+ignoring nonexistent directory "d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/lib/x86_64-poky-linux/gcc/../../../lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/../../../../../x86_64-poky-linux/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ d:\code\3.qt\6.6.1\boot2qt\intel-skylake-64\toolchain\sysroots\x86_64-w64-mingw32\usr\bin\x86_64-poky-linux\../../lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/include
+ d:\code\3.qt\6.6.1\boot2qt\intel-skylake-64\toolchain\sysroots\x86_64-w64-mingw32\usr\bin\x86_64-poky-linux\../../lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/include-fixed
+ D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/include/c++/12.3.0
+ D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/include/c++/12.3.0/x86_64-poky-linux
+ D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/include/c++/12.3.0/backward
+ D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/x86_64-poky-linux/12.3.0/include
+ D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/include
+End of search list.
+GNU C++17 (GCC) version 12.3.0 (x86_64-poky-linux)
+	compiled by GNU C version 12.3.0, GMP version 6.2.1, MPFR version 4.2.0, MPC version 1.3.1, isl version none
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 52c99bfef615aa19d3a91056c7b2187b
+COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '--sysroot=D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux' '-m64' '-march=x86-64-v3' '-fstack-protector-strong' '-Wformat=1' '-Wformat-security' '--sysroot=D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux' '-v' '-o' 'CMakeFiles/cmTC_ab961.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-dumpdir' 'CMakeFiles/cmTC_ab961.dir/'
+ d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../libexec/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/as.exe -v --64 -o CMakeFiles/cmTC_ab961.dir/CMakeCXXCompilerABI.cpp.o C:\Users\fuqianli\AppData\Local\Temp\cckwMabQ.s
+GNU assembler version 2.40.0 (x86_64-poky-linux) using BFD version (GNU Binutils) 2.40.0.20230703
+COMPILER_PATH=d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../libexec/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/;d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../libexec/x86_64-poky-linux/gcc/
+LIBRARY_PATH=d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/;d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../lib/x86_64-poky-linux/gcc/;D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/lib/../lib/;D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/x86_64-poky-linux/12.3.0/;D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/x86_64-poky-linux/12.3.0/;D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/;D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/lib/;D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/
+COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '--sysroot=D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux' '-m64' '-march=x86-64-v3' '-fstack-protector-strong' '-Wformat=1' '-Wformat-security' '--sysroot=D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux' '-v' '-o' 'CMakeFiles/cmTC_ab961.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-dumpdir' 'CMakeFiles/cmTC_ab961.dir/CMakeCXXCompilerABI.cpp.'
+[2/2] Linking CXX executable cmTC_ab961
+Using built-in specs.
+COLLECT_GCC=D:\Code\3.Qt\6.6.1\Boot2Qt\intel-skylake-64\toolchain\sysroots\x86_64-w64-mingw32\usr\bin\x86_64-poky-linux\x86_64-poky-linux-g++.exe
+COLLECT_LTO_WRAPPER=d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../libexec/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/lto-wrapper.exe
+Target: x86_64-poky-linux
+Configured with: ../../../../../../work-shared/gcc-12.3.0-r0/gcc-12.3.0/configure --build=x86_64-linux --host=x86_64-w64-mingw32 --target=x86_64-poky-linux --prefix=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr --exec_prefix=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr --bindir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux --sbindir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux --libexecdir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/libexec/x86_64-poky-linux --datadir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/share --sysconfdir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/etc --sharedstatedir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/com --localstatedir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/var --libdir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/lib/x86_64-poky-linux --includedir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/include --oldincludedir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/include --infodir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/share/info --mandir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/share/man --disable-silent-rules --disable-dependency-tracking --with-libtool-sysroot=/home/qt/work/build/build/tmp/work/x86_64-nativesdk-mingw32-w64-mingw32/gcc-cross-canadian-x86-64/12.3.0-r0/recipe-sysroot --enable-clocale=generic --with-gnu-ld --enable-shared --enable-languages=c,c++ --enable-threads=posix --enable-multilib --enable-default-pie --enable-c99 --enable-long-long --enable-symvers=gnu --enable-libstdcxx-pch --program-prefix=x86_64-poky-linux- --without-local-prefix --disable-install-libiberty --disable-libssp --enable-libitm --enable-lto --disable-bootstrap --with-system-zlib --with-linker-hash-style=gnu --enable-linker-build-id --with-ppl=no --with-cloog=no --enable-checking=release --enable-cheaders=c_global --without-isl --with-gxx-include-dir=/not/exist/usr/include/c++/12.3.0 --with-build-time-tools=/home/qt/work/build/build/tmp/work/x86_64-nativesdk-mingw32-w64-mingw32/gcc-cross-canadian-x86-64/12.3.0-r0/recipe-sysroot-native/usr/x86_64-poky-linux/bin --with-sysroot=/not/exist --with-build-sysroot=/home/qt/work/build/build/tmp/work/x86_64-nativesdk-mingw32-w64-mingw32/gcc-cross-canadian-x86-64/12.3.0-r0/recipe-sysroot --with-plugin-ld=ld --enable-poison-system-directories --disable-static --disable-nls --enable-initfini-array --enable-__cxa_atexit --disable-nls
+Thread model: posix
+Supported LTO compression algorithms: zlib zstd
+gcc version 12.3.0 (GCC) 
+COMPILER_PATH=d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../libexec/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/;d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../libexec/x86_64-poky-linux/gcc/
+LIBRARY_PATH=d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/;d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../lib/x86_64-poky-linux/gcc/;D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/lib/../lib/;D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/x86_64-poky-linux/12.3.0/;D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/x86_64-poky-linux/12.3.0/;D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/;D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/lib/;D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/
+COLLECT_GCC_OPTIONS='--sysroot=D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux' '-m64' '-march=x86-64-v3' '-fstack-protector-strong' '-Wformat=1' '-Wformat-security' '--sysroot=D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux' '-v' '-o' 'cmTC_ab961' '-shared-libgcc' '-dumpdir' 'cmTC_ab961.'
+ d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../libexec/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/collect2.exe -plugin d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../libexec/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/liblto_plugin.dll -plugin-opt=d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../libexec/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\fuqianli\AppData\Local\Temp\ccqpQwTZ.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib/ld-linux-x86-64.so.2 -pie -o cmTC_ab961 D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/Scrt1.o D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/crti.o D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/x86_64-poky-linux/12.3.0/crtbeginS.o -Ld:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0 -Ld:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../lib/x86_64-poky-linux/gcc -LD:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/lib/../lib -LD:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/x86_64-poky-linux/12.3.0 -LD:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/x86_64-poky-linux/12.3.0 -LD:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib -LD:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/lib -LD:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib -O1 --hash-style=gnu --as-needed -z relro -z now CMakeFiles/cmTC_ab961.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/x86_64-poky-linux/12.3.0/crtendS.o D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/crtn.o
+COLLECT_GCC_OPTIONS='--sysroot=D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux' '-m64' '-march=x86-64-v3' '-fstack-protector-strong' '-Wformat=1' '-Wformat-security' '--sysroot=D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux' '-v' '-o' 'cmTC_ab961' '-shared-libgcc' '-dumpdir' 'cmTC_ab961.'
+
+
+
+Parsed CXX implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/include]
+    add: [d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/include-fixed]
+    add: [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/include/c++/12.3.0]
+    add: [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/include/c++/12.3.0/x86_64-poky-linux]
+    add: [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/include/c++/12.3.0/backward]
+    add: [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/x86_64-poky-linux/12.3.0/include]
+    add: [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/include]
+  end of search list found
+  collapse include dir [d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/include] ==> [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/include]
+  collapse include dir [d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/include-fixed] ==> [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/include-fixed]
+  collapse include dir [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/include/c++/12.3.0] ==> [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/include/c++/12.3.0]
+  collapse include dir [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/include/c++/12.3.0/x86_64-poky-linux] ==> [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/include/c++/12.3.0/x86_64-poky-linux]
+  collapse include dir [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/include/c++/12.3.0/backward] ==> [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/include/c++/12.3.0/backward]
+  collapse include dir [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/x86_64-poky-linux/12.3.0/include] ==> [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/x86_64-poky-linux/12.3.0/include]
+  collapse include dir [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/include] ==> [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/include]
+  implicit include dirs: [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/include;D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/include-fixed;D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/include/c++/12.3.0;D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/include/c++/12.3.0/x86_64-poky-linux;D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/include/c++/12.3.0/backward;D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/x86_64-poky-linux/12.3.0/include;D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/include]
+
+
+Parsed CXX implicit link information from above output:
+  link line regex: [^( *|.*[/\])(x86_64-poky-linux-ld\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: C:/Users/fuqianli/OneDrive - City University of Hong Kong - Student/Documents/Project/Mahjong_Detection/build-Mahjong_Detection-Boot2Qt_6_6_1_Intel_NUC-Debug/CMakeFiles/CMakeScratch/TryCompile-om13xr]
+  ignore line: []
+  ignore line: [Run Build Command(s):D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/ninja.exe cmTC_ab961 && [1/2] Building CXX object CMakeFiles/cmTC_ab961.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=D:\Code\3.Qt\6.6.1\Boot2Qt\intel-skylake-64\toolchain\sysroots\x86_64-w64-mingw32\usr\bin\x86_64-poky-linux\x86_64-poky-linux-g++.exe]
+  ignore line: [Target: x86_64-poky-linux]
+  ignore line: [Configured with: ../../../../../../work-shared/gcc-12.3.0-r0/gcc-12.3.0/configure --build=x86_64-linux --host=x86_64-w64-mingw32 --target=x86_64-poky-linux --prefix=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr --exec_prefix=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr --bindir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux --sbindir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux --libexecdir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/libexec/x86_64-poky-linux --datadir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/share --sysconfdir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/etc --sharedstatedir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/com --localstatedir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/var --libdir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/lib/x86_64-poky-linux --includedir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/include --oldincludedir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/include --infodir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/share/info --mandir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/share/man --disable-silent-rules --disable-dependency-tracking --with-libtool-sysroot=/home/qt/work/build/build/tmp/work/x86_64-nativesdk-mingw32-w64-mingw32/gcc-cross-canadian-x86-64/12.3.0-r0/recipe-sysroot --enable-clocale=generic --with-gnu-ld --enable-shared --enable-languages=c,c++ --enable-threads=posix --enable-multilib --enable-default-pie --enable-c99 --enable-long-long --enable-symvers=gnu --enable-libstdcxx-pch --program-prefix=x86_64-poky-linux- --without-local-prefix --disable-install-libiberty --disable-libssp --enable-libitm --enable-lto --disable-bootstrap --with-system-zlib --with-linker-hash-style=gnu --enable-linker-build-id --with-ppl=no --with-cloog=no --enable-checking=release --enable-cheaders=c_global --without-isl --with-gxx-include-dir=/not/exist/usr/include/c++/12.3.0 --with-build-time-tools=/home/qt/work/build/build/tmp/work/x86_64-nativesdk-mingw32-w64-mingw32/gcc-cross-canadian-x86-64/12.3.0-r0/recipe-sysroot-native/usr/x86_64-poky-linux/bin --with-sysroot=/not/exist --with-build-sysroot=/home/qt/work/build/build/tmp/work/x86_64-nativesdk-mingw32-w64-mingw32/gcc-cross-canadian-x86-64/12.3.0-r0/recipe-sysroot --with-plugin-ld=ld --enable-poison-system-directories --disable-static --disable-nls --enable-initfini-array --enable-__cxa_atexit --disable-nls]
+  ignore line: [Thread model: posix]
+  ignore line: [Supported LTO compression algorithms: zlib zstd]
+  ignore line: [gcc version 12.3.0 (GCC) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '--sysroot=D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux' '-m64' '-march=x86-64-v3' '-fstack-protector-strong' '-Wformat=1' '-Wformat-security' '--sysroot=D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux' '-v' '-o' 'CMakeFiles/cmTC_ab961.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-dumpdir' 'CMakeFiles/cmTC_ab961.dir/']
+  ignore line: [ d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../libexec/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/cc1plus.exe -quiet -v -iprefix d:\code\3.qt\6.6.1\boot2qt\intel-skylake-64\toolchain\sysroots\x86_64-w64-mingw32\usr\bin\x86_64-poky-linux\../../lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/ -isysroot D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux -D_GNU_SOURCE D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_ab961.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -m64 -march=x86-64-v3 -Wformat=1 -Wformat-security -version -fdiagnostics-color=always -fstack-protector-strong -o C:\Users\fuqianli\AppData\Local\Temp\cckwMabQ.s]
+  ignore line: [GNU C++17 (GCC) version 12.3.0 (x86_64-poky-linux)]
+  ignore line: [	compiled by GNU C version 12.3.0  GMP version 6.2.1  MPFR version 4.2.0  MPC version 1.3.1  isl version none]
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [ignoring nonexistent directory "d:\code\3.qt\6.6.1\boot2qt\intel-skylake-64\toolchain\sysroots\x86_64-w64-mingw32\usr\bin\x86_64-poky-linux\../../lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/../../../../../x86_64-poky-linux/include"]
+  ignore line: [ignoring duplicate directory "d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/lib/x86_64-poky-linux/gcc/../../../lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/include"]
+  ignore line: [ignoring nonexistent directory "D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/../../../../include"]
+  ignore line: [ignoring duplicate directory "d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/lib/x86_64-poky-linux/gcc/../../../lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/include-fixed"]
+  ignore line: [ignoring nonexistent directory "d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/lib/x86_64-poky-linux/gcc/../../../lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/../../../../../x86_64-poky-linux/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ d:\code\3.qt\6.6.1\boot2qt\intel-skylake-64\toolchain\sysroots\x86_64-w64-mingw32\usr\bin\x86_64-poky-linux\../../lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/include]
+  ignore line: [ d:\code\3.qt\6.6.1\boot2qt\intel-skylake-64\toolchain\sysroots\x86_64-w64-mingw32\usr\bin\x86_64-poky-linux\../../lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/include-fixed]
+  ignore line: [ D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/include/c++/12.3.0]
+  ignore line: [ D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/include/c++/12.3.0/x86_64-poky-linux]
+  ignore line: [ D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/include/c++/12.3.0/backward]
+  ignore line: [ D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/x86_64-poky-linux/12.3.0/include]
+  ignore line: [ D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/include]
+  ignore line: [End of search list.]
+  ignore line: [GNU C++17 (GCC) version 12.3.0 (x86_64-poky-linux)]
+  ignore line: [	compiled by GNU C version 12.3.0  GMP version 6.2.1  MPFR version 4.2.0  MPC version 1.3.1  isl version none]
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [Compiler executable checksum: 52c99bfef615aa19d3a91056c7b2187b]
+  ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '--sysroot=D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux' '-m64' '-march=x86-64-v3' '-fstack-protector-strong' '-Wformat=1' '-Wformat-security' '--sysroot=D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux' '-v' '-o' 'CMakeFiles/cmTC_ab961.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-dumpdir' 'CMakeFiles/cmTC_ab961.dir/']
+  ignore line: [ d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../libexec/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/as.exe -v --64 -o CMakeFiles/cmTC_ab961.dir/CMakeCXXCompilerABI.cpp.o C:\Users\fuqianli\AppData\Local\Temp\cckwMabQ.s]
+  ignore line: [GNU assembler version 2.40.0 (x86_64-poky-linux) using BFD version (GNU Binutils) 2.40.0.20230703]
+  ignore line: [COMPILER_PATH=d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../libexec/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/]
+  ignore line: [d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../libexec/x86_64-poky-linux/gcc/]
+  ignore line: [LIBRARY_PATH=d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/]
+  ignore line: [d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../lib/x86_64-poky-linux/gcc/]
+  ignore line: [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/lib/../lib/]
+  ignore line: [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/x86_64-poky-linux/12.3.0/]
+  ignore line: [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/x86_64-poky-linux/12.3.0/]
+  ignore line: [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/]
+  ignore line: [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/lib/]
+  ignore line: [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '--sysroot=D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux' '-m64' '-march=x86-64-v3' '-fstack-protector-strong' '-Wformat=1' '-Wformat-security' '--sysroot=D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux' '-v' '-o' 'CMakeFiles/cmTC_ab961.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-dumpdir' 'CMakeFiles/cmTC_ab961.dir/CMakeCXXCompilerABI.cpp.']
+  ignore line: [[2/2] Linking CXX executable cmTC_ab961]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=D:\Code\3.Qt\6.6.1\Boot2Qt\intel-skylake-64\toolchain\sysroots\x86_64-w64-mingw32\usr\bin\x86_64-poky-linux\x86_64-poky-linux-g++.exe]
+  ignore line: [COLLECT_LTO_WRAPPER=d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../libexec/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/lto-wrapper.exe]
+  ignore line: [Target: x86_64-poky-linux]
+  ignore line: [Configured with: ../../../../../../work-shared/gcc-12.3.0-r0/gcc-12.3.0/configure --build=x86_64-linux --host=x86_64-w64-mingw32 --target=x86_64-poky-linux --prefix=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr --exec_prefix=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr --bindir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux --sbindir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux --libexecdir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/libexec/x86_64-poky-linux --datadir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/share --sysconfdir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/etc --sharedstatedir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/com --localstatedir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/var --libdir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/lib/x86_64-poky-linux --includedir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/include --oldincludedir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/include --infodir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/share/info --mandir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-w64-mingw32/usr/share/man --disable-silent-rules --disable-dependency-tracking --with-libtool-sysroot=/home/qt/work/build/build/tmp/work/x86_64-nativesdk-mingw32-w64-mingw32/gcc-cross-canadian-x86-64/12.3.0-r0/recipe-sysroot --enable-clocale=generic --with-gnu-ld --enable-shared --enable-languages=c,c++ --enable-threads=posix --enable-multilib --enable-default-pie --enable-c99 --enable-long-long --enable-symvers=gnu --enable-libstdcxx-pch --program-prefix=x86_64-poky-linux- --without-local-prefix --disable-install-libiberty --disable-libssp --enable-libitm --enable-lto --disable-bootstrap --with-system-zlib --with-linker-hash-style=gnu --enable-linker-build-id --with-ppl=no --with-cloog=no --enable-checking=release --enable-cheaders=c_global --without-isl --with-gxx-include-dir=/not/exist/usr/include/c++/12.3.0 --with-build-time-tools=/home/qt/work/build/build/tmp/work/x86_64-nativesdk-mingw32-w64-mingw32/gcc-cross-canadian-x86-64/12.3.0-r0/recipe-sysroot-native/usr/x86_64-poky-linux/bin --with-sysroot=/not/exist --with-build-sysroot=/home/qt/work/build/build/tmp/work/x86_64-nativesdk-mingw32-w64-mingw32/gcc-cross-canadian-x86-64/12.3.0-r0/recipe-sysroot --with-plugin-ld=ld --enable-poison-system-directories --disable-static --disable-nls --enable-initfini-array --enable-__cxa_atexit --disable-nls]
+  ignore line: [Thread model: posix]
+  ignore line: [Supported LTO compression algorithms: zlib zstd]
+  ignore line: [gcc version 12.3.0 (GCC) ]
+  ignore line: [COMPILER_PATH=d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../libexec/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/]
+  ignore line: [d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../libexec/x86_64-poky-linux/gcc/]
+  ignore line: [LIBRARY_PATH=d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/]
+  ignore line: [d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../lib/x86_64-poky-linux/gcc/]
+  ignore line: [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/lib/../lib/]
+  ignore line: [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/x86_64-poky-linux/12.3.0/]
+  ignore line: [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/x86_64-poky-linux/12.3.0/]
+  ignore line: [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/]
+  ignore line: [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/lib/]
+  ignore line: [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='--sysroot=D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux' '-m64' '-march=x86-64-v3' '-fstack-protector-strong' '-Wformat=1' '-Wformat-security' '--sysroot=D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux' '-v' '-o' 'cmTC_ab961' '-shared-libgcc' '-dumpdir' 'cmTC_ab961.']
+  link line: [ d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../libexec/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/collect2.exe -plugin d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../libexec/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/liblto_plugin.dll -plugin-opt=d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../libexec/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\fuqianli\AppData\Local\Temp\ccqpQwTZ.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib/ld-linux-x86-64.so.2 -pie -o cmTC_ab961 D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/Scrt1.o D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/crti.o D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/x86_64-poky-linux/12.3.0/crtbeginS.o -Ld:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0 -Ld:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../lib/x86_64-poky-linux/gcc -LD:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/lib/../lib -LD:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/x86_64-poky-linux/12.3.0 -LD:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/x86_64-poky-linux/12.3.0 -LD:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib -LD:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/lib -LD:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib -O1 --hash-style=gnu --as-needed -z relro -z now CMakeFiles/cmTC_ab961.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/x86_64-poky-linux/12.3.0/crtendS.o D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/crtn.o]
+    arg [d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../libexec/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/collect2.exe] ==> ignore
+    arg [-plugin] ==> ignore
+    arg [d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../libexec/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/liblto_plugin.dll] ==> ignore
+    arg [-plugin-opt=d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../libexec/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0/lto-wrapper.exe] ==> ignore
+    arg [-plugin-opt=-fresolution=C:\Users\fuqianli\AppData\Local\Temp\ccqpQwTZ.res] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [--sysroot=D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux] ==> ignore
+    arg [--build-id] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [--hash-style=gnu] ==> ignore
+    arg [-m] ==> ignore
+    arg [elf_x86_64] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib/ld-linux-x86-64.so.2] ==> ignore
+    arg [-pie] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_ab961] ==> ignore
+    arg [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/Scrt1.o] ==> obj [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/Scrt1.o]
+    arg [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/crti.o] ==> obj [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/crti.o]
+    arg [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/x86_64-poky-linux/12.3.0/crtbeginS.o] ==> obj [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/x86_64-poky-linux/12.3.0/crtbeginS.o]
+    arg [-Ld:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0] ==> dir [d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0]
+    arg [-Ld:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../lib/x86_64-poky-linux/gcc] ==> dir [d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../lib/x86_64-poky-linux/gcc]
+    arg [-LD:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/lib/../lib] ==> dir [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/lib/../lib]
+    arg [-LD:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/x86_64-poky-linux/12.3.0] ==> dir [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/x86_64-poky-linux/12.3.0]
+    arg [-LD:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/x86_64-poky-linux/12.3.0] ==> dir [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/x86_64-poky-linux/12.3.0]
+    arg [-LD:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib] ==> dir [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib]
+    arg [-LD:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/lib] ==> dir [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/lib]
+    arg [-LD:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib] ==> dir [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib]
+    arg [-O1] ==> ignore
+    arg [--hash-style=gnu] ==> ignore
+    arg [--as-needed] ==> ignore
+    arg [-zrelro] ==> ignore
+    arg [-znow] ==> ignore
+    arg [CMakeFiles/cmTC_ab961.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [-lstdc++] ==> lib [stdc++]
+    arg [-lm] ==> lib [m]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lc] ==> lib [c]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/x86_64-poky-linux/12.3.0/crtendS.o] ==> obj [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/x86_64-poky-linux/12.3.0/crtendS.o]
+    arg [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/crtn.o] ==> obj [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/crtn.o]
+  collapse obj [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/Scrt1.o] ==> [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/Scrt1.o]
+  collapse obj [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/crti.o] ==> [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/crti.o]
+  collapse obj [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/x86_64-poky-linux/12.3.0/crtbeginS.o] ==> [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/x86_64-poky-linux/12.3.0/crtbeginS.o]
+  collapse obj [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/x86_64-poky-linux/12.3.0/crtendS.o] ==> [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/x86_64-poky-linux/12.3.0/crtendS.o]
+  collapse obj [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/crtn.o] ==> [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/crtn.o]
+  collapse library dir [d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0] ==> [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0]
+  collapse library dir [d:/code/3.qt/6.6.1/boot2qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/x86_64-poky-linux/../../lib/x86_64-poky-linux/gcc] ==> [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/lib/x86_64-poky-linux/gcc]
+  collapse library dir [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/lib/../lib] ==> [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/lib]
+  collapse library dir [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib/x86_64-poky-linux/12.3.0] ==> [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/x86_64-poky-linux/12.3.0]
+  collapse library dir [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/x86_64-poky-linux/12.3.0] ==> [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/x86_64-poky-linux/12.3.0]
+  collapse library dir [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/../lib] ==> [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib]
+  collapse library dir [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/lib] ==> [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/lib]
+  collapse library dir [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib] ==> [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib]
+  implicit libs: [stdc++;m;gcc_s;gcc;c;gcc_s;gcc]
+  implicit objs: [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/Scrt1.o;D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/crti.o;D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/x86_64-poky-linux/12.3.0/crtbeginS.o;D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/x86_64-poky-linux/12.3.0/crtendS.o;D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/crtn.o]
+  implicit dirs: [D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/lib/x86_64-poky-linux/gcc/x86_64-poky-linux/12.3.0;D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/lib/x86_64-poky-linux/gcc;D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/lib;D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib/x86_64-poky-linux/12.3.0;D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86-64-v3-poky-linux/usr/lib]
+  implicit fwks: []
+
+
+Performing C++ SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD succeeded with the following output:
+Change Dir: C:/Users/fuqianli/OneDrive - City University of Hong Kong - Student/Documents/Project/Mahjong_Detection/build-Mahjong_Detection-Boot2Qt_6_6_1_Intel_NUC-Debug/CMakeFiles/CMakeScratch/TryCompile-ulke0p
+
+Run Build Command(s):D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/ninja.exe cmTC_ca525 && [1/2] Building CXX object CMakeFiles/cmTC_ca525.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_ca525
+
+
+Source file was:
+#include <pthread.h>
+
+static void* test_func(void* data)
+{
+  return data;
+}
+
+int main(void)
+{
+  pthread_t thread;
+  pthread_create(&thread, NULL, test_func, NULL);
+  pthread_detach(thread);
+  pthread_cancel(thread);
+  pthread_join(thread, NULL);
+  pthread_atfork(NULL, NULL, NULL);
+  pthread_exit(NULL);
+
+  return 0;
+}
+
+
+Performing C++ SOURCE FILE Test HAVE_STDATOMIC succeeded with the following output:
+Change Dir: C:/Users/fuqianli/OneDrive - City University of Hong Kong - Student/Documents/Project/Mahjong_Detection/build-Mahjong_Detection-Boot2Qt_6_6_1_Intel_NUC-Debug/CMakeFiles/CMakeScratch/TryCompile-uf8b3t
+
+Run Build Command(s):D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/ninja.exe cmTC_bace9 && [1/2] Building CXX object CMakeFiles/cmTC_bace9.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_bace9
+
+
+Source file was:
+#include <atomic>
+#include <cstdint>
+
+int main(int, char **)
+{
+    volatile std::atomic<char>    size_1;
+    volatile std::atomic<short>   size_2;
+    volatile std::atomic<int>     size_4;
+    volatile std::atomic<int64_t> size_8;
+
+    ++size_1;
+    ++size_2;
+    ++size_4;
+    ++size_8;
+
+    (void)size_1.load(std::memory_order_relaxed);
+    (void)size_2.load(std::memory_order_relaxed);
+    (void)size_4.load(std::memory_order_relaxed);
+    (void)size_8.load(std::memory_order_relaxed);
+
+    return 0;
+}
+
+Performing C++ SOURCE FILE Test HAVE_EGL succeeded with the following output:
+Change Dir: C:/Users/fuqianli/OneDrive - City University of Hong Kong - Student/Documents/Project/Mahjong_Detection/build-Mahjong_Detection-Boot2Qt_6_6_1_Intel_NUC-Debug/CMakeFiles/CMakeScratch/TryCompile-leu00q
+
+Run Build Command(s):D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/ninja.exe cmTC_28602 && [1/2] Building CXX object CMakeFiles/cmTC_28602.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_28602
+
+
+Source file was:
+
+#include <EGL/egl.h>
+
+int main(int, char **) {
+    [[maybe_unused]] EGLint x = 0;
+    EGLDisplay dpy = 0; EGLContext ctx = 0;
+    eglDestroyContext(dpy, ctx);
+}
+
+Performing C++ SOURCE FILE Test HAVE_GLESv2 succeeded with the following output:
+Change Dir: C:/Users/fuqianli/OneDrive - City University of Hong Kong - Student/Documents/Project/Mahjong_Detection/build-Mahjong_Detection-Boot2Qt_6_6_1_Intel_NUC-Debug/CMakeFiles/CMakeScratch/TryCompile-ft6xpw
+
+Run Build Command(s):D:/Code/3.Qt/6.6.1/Boot2Qt/intel-skylake-64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/ninja.exe cmTC_6b6e3 && [1/2] Building CXX object CMakeFiles/cmTC_6b6e3.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_6b6e3
+
+
+Source file was:
+
+#ifdef __APPLE__
+#  include <OpenGLES/ES2/gl.h>
+#else
+#  define GL_GLEXT_PROTOTYPES
+#  include <GLES2/gl2.h>
+#endif
+
+int main(int, char **) {
+    glUniform1f(1, GLfloat(1.0));
+    glClear(GL_COLOR_BUFFER_BIT);
+}
+

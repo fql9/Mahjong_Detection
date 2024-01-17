@@ -1,0 +1,9 @@
+C:/Users/fuqianli/OneDrive - City University of Hong Kong - Student/Documents/Project/Mahjong_Detection/build-Mahjong_Detection-Boot2Qt_6_6_1_Intel_NUC-Debug/CMakeFiles/Mahjong_Detection.dir
+C:/Users/fuqianli/OneDrive - City University of Hong Kong - Student/Documents/Project/Mahjong_Detection/build-Mahjong_Detection-Boot2Qt_6_6_1_Intel_NUC-Debug/CMakeFiles/edit_cache.dir
+C:/Users/fuqianli/OneDrive - City University of Hong Kong - Student/Documents/Project/Mahjong_Detection/build-Mahjong_Detection-Boot2Qt_6_6_1_Intel_NUC-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/fuqianli/OneDrive - City University of Hong Kong - Student/Documents/Project/Mahjong_Detection/build-Mahjong_Detection-Boot2Qt_6_6_1_Intel_NUC-Debug/CMakeFiles/list_install_components.dir
+C:/Users/fuqianli/OneDrive - City University of Hong Kong - Student/Documents/Project/Mahjong_Detection/build-Mahjong_Detection-Boot2Qt_6_6_1_Intel_NUC-Debug/CMakeFiles/install.dir
+C:/Users/fuqianli/OneDrive - City University of Hong Kong - Student/Documents/Project/Mahjong_Detection/build-Mahjong_Detection-Boot2Qt_6_6_1_Intel_NUC-Debug/CMakeFiles/install/local.dir
+C:/Users/fuqianli/OneDrive - City University of Hong Kong - Student/Documents/Project/Mahjong_Detection/build-Mahjong_Detection-Boot2Qt_6_6_1_Intel_NUC-Debug/CMakeFiles/install/strip.dir
+C:/Users/fuqianli/OneDrive - City University of Hong Kong - Student/Documents/Project/Mahjong_Detection/build-Mahjong_Detection-Boot2Qt_6_6_1_Intel_NUC-Debug/CMakeFiles/Mahjong_Detection_autogen_timestamp_deps.dir
+C:/Users/fuqianli/OneDrive - City University of Hong Kong - Student/Documents/Project/Mahjong_Detection/build-Mahjong_Detection-Boot2Qt_6_6_1_Intel_NUC-Debug/CMakeFiles/Mahjong_Detection_autogen.dir
